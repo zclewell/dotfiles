@@ -1,3 +1,5 @@
+# hey look at me all installed already!
+
 syntax on
 
 set number
