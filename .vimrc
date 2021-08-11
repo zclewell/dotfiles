@@ -1,4 +1,4 @@
-# hey look at me all installed already!
+" hey look at me all installed already!
 
 syntax on
 
